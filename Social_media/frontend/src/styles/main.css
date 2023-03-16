@@ -1,0 +1,206 @@
+.input-field {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #d4d5d6;
+  width: 91%;
+  font-size: 16px;
+}
+
+.secondary-btn {
+  width: 100%;
+  border: 2px solid #245180;
+  border-radius: 5px;
+  outline: none;
+  padding: 15px;
+  background-color: transparent;
+  font-size: 16px;
+  color: #245180;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.submitBtn {
+  background-color: #245180;
+  border-radius: 5px;
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border: none;
+  color: #fff;
+  margin-top: 20px;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+}
+.submitBtn .ctn-txt {
+  margin-top: 3px;
+  margin-right: 10px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.sign-up-parent .errorMessage {
+  margin-top: 10px;
+  font-size: 12px;
+  color: red;
+  margin-bottom: 25px;
+}
+.sign-up-parent .alternate-login {
+  margin-top: 30px;
+}
+.sign-up-parent .alternate-login .social-btn-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.sign-up-parent .alternate-login .social-btn-section .whatsapp {
+  border: 1px solid #1CD741;
+  color: #1CD741;
+}
+.sign-up-parent .alternate-login .social-btn-section .google {
+  border: 1px solid #0086f8;
+  color: #0086f8;
+}
+.sign-up-parent .alternate-login .social-btn-section button {
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  border-radius: 5px;
+  padding: 8px 15px;
+  background: none;
+  font-size: 16px;
+  width: 200px;
+}
+.sign-up-parent .alternate-login .social-btn-section button .social-name {
+  margin: 5px;
+}
+.sign-up-parent .alternate-login .social-btn-section button svg {
+  height: 25px;
+  margin-right: 10px;
+}
+.sign-up-parent .alternate-login .terms-cond {
+  margin-top: 20px;
+}
+.sign-up-parent .alternate-login .terms-cond a {
+  text-decoration: none;
+  color: #0086f8;
+  font-weight: 600;
+}
+
+.otp-form .back-button {
+  text-decoration: none;
+  color: grey;
+  display: flex;
+}
+.otp-form .otp-intimation {
+  margin-bottom: 20px;
+}
+.otp-form .sign-out {
+  margin-top: 2px;
+  margin-left: 10px;
+}
+
+.listing-parent .back-button {
+  text-decoration: none;
+  color: #245180;
+  display: flex;
+  margin-top: 20px;
+}
+.listing-parent .back-button .sign-out {
+  margin-top: 2px;
+  margin-left: 10px;
+}
+.listing-parent .mob-listing-section {
+  border-collapse: collapse;
+  width: 100%;
+}
+.listing-parent .mob-listing-section th, .listing-parent .mob-listing-section td {
+  text-align: left;
+  padding: 8px;
+}
+.listing-parent .mob-listing-section tbody {
+  color: #245180;
+}
+.listing-parent .mob-listing-section tbody tr {
+  border-bottom: 2px solid #245180;
+}
+.listing-parent .mob-listing-section tbody tr:last-of-type {
+  border-bottom: none;
+}
+.listing-parent .mob-listing-section th {
+  text-align: center;
+  padding-bottom: 20px;
+  font-weight: 600;
+  color: #245180;
+}
+.listing-parent .mob-listing-section .editBtn {
+  background-color: transparent;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  color: #245180;
+}
+.listing-parent .mob-listing-section .deleteBtn {
+  width: 100%;
+  border-radius: 5px;
+  outline: none;
+  padding: 10px;
+  background-color: transparent;
+  font-size: 16px;
+  color: #245180;
+  font-weight: 500;
+  margin-left: 10px;
+  cursor: pointer;
+  border: none;
+}
+.listing-parent .mob-listing-section .saveBtn {
+  background-color: #245180;
+  border-radius: 5px;
+  width: 40%;
+  padding: 12px;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.listing-parent .mob-listing-section .action-btn-section {
+  display: flex;
+}
+
+.not_found_section {
+  text-align: center;
+}
+.not_found_section .no_txt {
+  margin: 20px;
+}
+.not_found_section .later {
+  margin-top: 15px;
+  color: grey;
+}
+.not_found_section .big {
+  font-size: 40px;
+}
+.not_found_section .small {
+  font-size: 20px;
+}
+.not_found_section .back-button {
+  text-decoration: none;
+  color: #245180;
+  display: flex;
+}
+.not_found_section .back-button .sign-out {
+  margin-top: 2px;
+  margin-left: 10px;
+}/*# sourceMappingURL=main.css.map */
